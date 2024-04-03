@@ -1,5 +1,5 @@
 # Front-end Quiz App
-Is a full stack project to test your basic knowledge as front-end developer. Created with React for client side, and Php - MySql in server side. When application is run, You would need to login first or sign up if you haven't registered yet. Score will be track and shown at the end of the quiz.
+is an app to test front-end developer's knowledge in web development. Created with React for client side, and Php - MySql in server side. When application is run, You would need to login first or sign up if you haven't registered yet. Score will be track and shown at the end of the quiz.
 
 
 # Tools Used in the Project
