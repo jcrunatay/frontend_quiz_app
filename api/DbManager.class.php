@@ -1,25 +1,6 @@
 <?php 
 
 class DbManager {
-    
-    /* public function connect() {
-        try {
-            
-            
-
-            // Create a new PDO instance
-            $conn = new PDO("mysql:host=$this->server;dbname=$this->dbname", $this->user, $this->pass);
-
-            // Set the PDO error mode to exception
-            $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-            return $conn; // Return the PDO instance
-
-        } catch (\Exception $e) {
-            echo "Database Error: " . $e->getMessage();
-        }
-    } */
-
     private $db;
 
 	function __construct(){
@@ -46,13 +27,6 @@ class DbManager {
         /* return $query->execute($user->shortProperties()); */
 
         $status = $query->execute($user->shortProperties());
-
-        /* if($status){
-            $response = ['status' => 1, 'message' => 'Record created successfully'];
-        }else{
-            $response = ['status' => 0, 'message' => 'Failed to add user'];
-        } 
-        echo json_encode($response); */
 	}
 
     /***
@@ -125,18 +99,6 @@ class DbManager {
 
             echo json_encode($response);
             return $response['status'] === 0; // true if there was an error, false if successful
-
-            //check if there are rows .. if return rows means there is a duplicate in username .. therefore send a response of username duplicate
-            /* if($rowUsername['userCount'] > 0){
-                $response = ['status' => 0, 'message' => 'Failed registration to Front-end Quiz App','username_duplicate' => true];
-                echo json_encode($response);
-                return  true;
-            }else{
-                $response = ['status' => 1, 'message' => 'Successfully register to Front-end Quiz App','username_duplicate' => false];
-                echo json_encode($response);
-                return  false;
-            } */
-            
 
         }   
 
