@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    /* safari*/
+    input:-webkit-autofill {
+        -webkit-box-shadow: 0 0 0 1000px transparent inset !important;
+    }
+
+    /* For other browsers */
+    input:-webkit-autofill {
+        -webkit-text-fill-color: #333 !important;
+        transition: background-color 5000s ease-in-out 0s; /* Fix for Chrome autofill color change issue */
+    }
+
+    /* For dark mode */
+    .dark input:-webkit-autofill {
+        -webkit-text-fill-color: #fff !important; /* Text color in dark mode */
+    }
+}
