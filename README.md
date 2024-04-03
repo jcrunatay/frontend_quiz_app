@@ -16,12 +16,21 @@
 
 
 # Project Output
-![Front-endQuizApp](https://github.com/jcrunatay/movie_app/blob/main/public/image/movie_app_img1.png "TheWatchMovies Project Output")
+![Front-endQuizApp](https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/desktop_login.png "Login Page Desktop Version")
 
-![Front-endQuizApp](https://github.com/jcrunatay/movie_app/blob/main/public/image/movie_app_img2.png "TheWatchMovies Project Output")
+![Front-endQuizApp](https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/desktop_sign_in.png "Sign up Desktop Version")
+
+![Front-endQuizApp](https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/desktop_light_choosing_subject.png "Choosing Subject Desktop Version")
+
+![Front-endQuizApp](https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/desktop_starting_quiz.png "Starting Quiz Desktop Version")
 
 
 <div style="display: flex;">
-  <img src="https://github.com/jcrunatay/movie_app/blob/main/public/image/movie_app_mobie_img1.png" alt="TheWatchMovies Mobile Project Output"/>
-  <img src="https://github.com/jcrunatay/movie_app/blob/main/public/image/movie_app_mobie_img2.png" alt="TheWatchMovies Mobile Project Output"/>
+  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_login.png" alt="Log inn Page Mobile Version"/>
+  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_sign_in.png" alt="Sign up Page Mobile Version"/>
+</div>
+
+<div style="display: flex;">
+  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_light_choosing_subject.png" alt="Choosing Subject Mobile Version"/>
+  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_starting_quiz.png" alt="Starting Quiz Mobile Version"/>
 </div>
