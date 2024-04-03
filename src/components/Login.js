@@ -47,7 +47,7 @@ const LogInForm = (props) => {
         };
 
         const response = await axios.post(
-            "http://juyan-runatay.infinityfreeapp.com/quiz_app/",
+            "https://juyan-runatay.infinityfreeapp.com/quiz_app/",
             newFormInput
         );
 
