@@ -25,11 +25,11 @@
 ![Front-endQuizApp](https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/desktop_starting_quiz.png "Starting Quiz Desktop Version")
 
 
-<div>
-  <img height="400" width="25%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_login.png" alt="Log inn Page Mobile Version"/>
-  <img height="400" width="25%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_sign_in.png" alt="Sign up Page Mobile Version"/>
-  <img height="400" width="25%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_light_choosing_subject.png" alt="Choosing Subject Mobile Version"/>
-  <img height="400" width="25%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_starting_quiz.png" alt="Starting Quiz Mobile Version"/>
+<div align="center">
+  <img height="400" width="24.5%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_login.png" alt="Log inn Page Mobile Version"/>
+  <img height="400" width="24.5%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_sign_in.png" alt="Sign up Page Mobile Version"/>
+  <img height="400" width="24.5%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_light_choosing_subject.png" alt="Choosing Subject Mobile Version"/>
+  <img height="400" width="24.5%" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_starting_quiz.png" alt="Starting Quiz Mobile Version"/>
 </div>
 
 
