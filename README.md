@@ -26,9 +26,9 @@
 
 
 <div style="display: flex;">
-  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_login.png" alt="Log inn Page Mobile Version"/>
-  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_sign_in.png" alt="Sign up Page Mobile Version"/>
-  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_light_choosing_subject.png" alt="Choosing Subject Mobile Version"/>
-  <img src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_starting_quiz.png" alt="Starting Quiz Mobile Version"/>
+  <img height="500" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_login.png" alt="Log inn Page Mobile Version"/>
+  <img height="500" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_sign_in.png" alt="Sign up Page Mobile Version"/>
+  <img height="500" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_light_choosing_subject.png" alt="Choosing Subject Mobile Version"/>
+  <img height="500" src="https://github.com/jcrunatay/frontend_quiz_app/blob/main/public/images/output_img/mobile_starting_quiz.png" alt="Starting Quiz Mobile Version"/>
 </div>
 
