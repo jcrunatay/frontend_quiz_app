@@ -141,7 +141,7 @@ function App() {
                         isDarkMode={isDarkMode}
                     />
                 ) : (
-                    <Router>
+                    <Router basename="/frontend_quiz_app">
                         <Routes>
                             <Route path="/signup" element={<SignUpForm />}></Route>
                             <Route
