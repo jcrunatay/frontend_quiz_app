@@ -62,7 +62,10 @@ const SignUpForm = () => {
 
         // Make POST request using axios
         try {
-            const response = await axios.post("http://localhost/react/quiz_app/", newFormInput);
+            const response = await axios.post(
+                "http://juyan-runatay.infinityfreeapp.com/quiz_app/",
+                newFormInput
+            );
             if (response.data.username_duplicate) {
                 setError("username", {
                     type: "manual",

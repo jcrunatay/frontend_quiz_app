@@ -46,7 +46,10 @@ const LogInForm = (props) => {
             action: "getUserByUsername",
         };
 
-        const response = await axios.post("http://localhost/react/quiz_app/", newFormInput);
+        const response = await axios.post(
+            "http://juyan-runatay.infinityfreeapp.com/quiz_app/",
+            newFormInput
+        );
 
         if (response.data.status !== "success") {
             //set error that will be displayed if no user found
