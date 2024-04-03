@@ -18,7 +18,7 @@ const BackgroundImg = (props) => {
                 alt="pattern-background-mobile-light"
             />
             <img
-                className="relative -z-20 hidden lg:block border-2 border-emerald-300 min-w-full min-h-screen"
+                className="relative -z-20 hidden lg:block min-w-full min-h-screen"
                 src={`./images/pattern-background-desktop-${
                     props.isDarkMode ? "dark" : "light"
                 }.svg`}
