@@ -86,7 +86,7 @@ const Header = (props) => {
                                 </li>
                                 <li className="text-nowrap">
                                     <button
-                                        className="outline-none  w-full py-2 px-5 text-left"
+                                        className="outline-none  w-full py-2 px-5 text-left hover:bg-gray-300"
                                         onClick={() => {
                                             props.setIsUserLoggedIn(false);
                                             props.setIsCaretMenuOpen(false);
