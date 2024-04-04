@@ -47,7 +47,7 @@ const LogInForm = (props) => {
         };
 
         const response = await axios.post(
-            "https://juyan-runatay.infinityfreeapp.com/quiz_app/",
+            "https://juyan-runatay.infinityfreeapp.com/frontend_quiz_app/api/",
             newFormInput
         );
 
@@ -56,12 +56,12 @@ const LogInForm = (props) => {
 
             setError("username", {
                 type: "manual",
-                message: response.data.message.username_message,
+                message: response?.data.message.username_message,
             });
 
             setError("password", {
                 type: "manual",
-                message: response.data.message.password_message,
+                message: response?.data.message.password_message,
             });
 
             return;
