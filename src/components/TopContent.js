@@ -90,6 +90,7 @@ const Header = (props) => {
                                         onClick={() => {
                                             props.setIsUserLoggedIn(false);
                                             props.setIsCaretMenuOpen(false);
+                                            props.setIsQuizStarted(false);
                                         }}
                                     >
                                         sign out

@@ -109,6 +109,7 @@ function App() {
                 <BackgroundImg isDarkMode={isDarkMode} />
                 <TopContent
                     isQuizStarted={isQuizStarted}
+                    setIsQuizStarted={setIsQuizStarted}
                     selectedTopic={selectedTopic}
                     isDarkMode={isDarkMode}
                     toggleDarkMode={toggleDarkMode}
